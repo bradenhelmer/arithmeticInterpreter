@@ -1,4 +1,3 @@
-1. `git clone https://github.com/bradenhelmer/arithmeticInterpreter.git`
-2. `make`
-
-
+1. Have automake and autoconf installed
+2. Clone repository
+3. `cd arithmeticInterpreter aclocal && automake --add-missing && autoconf && ./configure && make`
