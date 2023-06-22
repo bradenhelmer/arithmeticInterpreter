@@ -63,7 +63,6 @@ void freeNodes();
 
 #endif  // INTPRT_HH
 
-#define INTPRT_IMPL
 #ifdef INTPRT_IMPL
 #include <assert.h>
 #include <ctype.h>
