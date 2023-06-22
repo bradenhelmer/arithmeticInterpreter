@@ -346,5 +346,4 @@ long executeAST(Node *node) {
   }
 }
 
-#undef INTPRT_IMPL
 #endif  // INTPRT_IMPL
